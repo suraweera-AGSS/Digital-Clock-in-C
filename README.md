@@ -1,7 +1,7 @@
 # Digital Clock in C
 *This simple C program implements a digital clock that allows users to set a starting time and then displays the current time in a continuous loop. The clock supports hours, minutes, and seconds, and it includes input validation to ensure a valid time format.*
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suraweera-agss&label=Profile%20views&color=0e75b6&style=flat" alt="suraweera-agss" /> </p>
+<p align="center"> <img src="https://github.com/suraweera-AGSS/Digital-Clock-in-C/blob/main/DIGITAL-CLOCK-12-23-2023.jpg" height="300" width="400" alt="suraweera-agss" /> </p>
 
 **Features**
 <br><br>
